@@ -7,7 +7,6 @@ end
 
 if ProjectSlayer then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/KUShakung/ProjectSljk/main/README.md"))()
-end
-if BF then
+elseif BF then
     loadstring(game:HttpGet("https://github.com/KUShakung/...."))()
 end
