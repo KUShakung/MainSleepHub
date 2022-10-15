@@ -11,5 +11,5 @@ if ProjectSlayer then
 elseif BF then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/KUShakung/..../main/README.md"))()
 elseif MP then
-    loadstring(game.HttpGet("https://raw.githubusercontent.com/KUShakung/Master-pirate/main/README.md"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/KUShakung/Master-pirate/main/README.md"))()
 end
