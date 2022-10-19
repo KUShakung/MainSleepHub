@@ -7,7 +7,7 @@ elseif placeId == 9790558424 then
     MP = true
 end
 if ProjectSlayer then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/KUShakung/ProjectSljk/main/README.md"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/KUShakung/psljk/main/README.md"))()
 elseif BF then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/KUShakung/..../main/README.md"))()
 elseif MP then
